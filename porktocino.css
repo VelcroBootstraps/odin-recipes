@@ -1,0 +1,35 @@
+/*porktocino.css */
+.body {
+    font-family: 'Courier New', Courier, monospace;
+    color: darkslategray;
+    background-color: beige;
+    font-size: auto;
+    text-align: left;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 24px;
+}
+
+img {
+    flex-shrink: calc();
+    width: 500px;
+    align-self: center;
+    max-width: 80%;
+    height: auto;
+    border-radius: 12px;
+}
+
+#description,
+#ingredients,
+#instructions,
+#enjoy {
+    background-color: white;
+    color: darkslategray;
+    text-align: left;
+    padding: 20px;
+    margin: 20px;
+    border-color: ;
+    border-radius: 24px;
+
+}
+
