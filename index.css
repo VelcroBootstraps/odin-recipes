@@ -1,0 +1,38 @@
+
+.img1 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 20px;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  flex-wrap: wrap;
+  align-items: flex-start;
+  gap: 1em;
+  padding: 20px;
+  background-color: #f0f0f0;
+}
+
+flex.one {
+
+}
+
+flex.two{
+
+}
+
+flex.three{
+
+}
+
+flex.four{
+
+}
+
+flex.five{
+
+}
